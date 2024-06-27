@@ -1,7 +1,6 @@
 # Hello, world!
 
 i write code, supposedly
-<sub>i like this color `#C7237A`</sub>
 
 ## Socials
 ### Discord: sev7nsev7n7
