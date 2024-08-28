@@ -1,6 +1,6 @@
 # Hello, world!
 
-i write code, supposedly
+i write code, supposedly :p
 
 ## Socials
 Discord: sev7nsev7n7
