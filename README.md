@@ -3,7 +3,7 @@
 i write code, supposedly :p
 
 ## Socials
-Discord: sev7nsev7n7
+Discord: 7sev7nsev7n7
 
 yeah that's my only one lol
 
